@@ -1,0 +1,9 @@
+{
+  "name": "Draven Intel",
+  "short_name": "Draven",
+  "description": "Institutional Airdrop Intelligence",
+  "start_url": "/evaluate",
+  "display": "standalone",
+  "background_color": "#04060c",
+  "theme_color": "#c9a06a"
+}
